@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy <Erick Sanchez/>
+# ¡Hola! 👋 Soy Erick Sanchez
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=112c34&lines=Desarrollador+Full+Stack;Más+de+10+años+de+experiencia)
 
