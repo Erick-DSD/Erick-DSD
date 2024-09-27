@@ -51,9 +51,10 @@
 ---
 
 ### 📈 Mis Estadísticas en GitHub:
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Erick-DSD&show_icons=true&theme=radical)
-![Contribuciones](https://github-readme-streak-stats.herokuapp.com/?user=Erick-DSD&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Erick-DSD&layout=compact&theme=radical)
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Erick-DSD&show_icons=true&theme=tokyonight)
+![Contribuciones](https://github-readme-streak-stats.herokuapp.com/?user=Erick-DSD&theme=tokyonight)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Erick-DSD&layout=compact&theme=tokyonight)
 
 ---
 
